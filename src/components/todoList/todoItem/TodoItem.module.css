@@ -1,0 +1,9 @@
+.todoitem {
+    border: 1px solid blue;
+    display: inline-block;
+}
+
+.red {
+    color: red;
+    text-decoration: line-through;
+}
